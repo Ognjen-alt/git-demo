@@ -2,6 +2,6 @@
 
 Ovo je prvi fajl u repozitorijumu.
 
-## Lorem Ipsum
+## Website contents
 
-fasdfadsfsdf dfed fdfesfsdf dfed fdfe
+1. index.html
