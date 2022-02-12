@@ -5,3 +5,4 @@ Ovo je prvi fajl u repozitorijumu.
 ## Website contents
 
 1. index.html
+2. main.js
